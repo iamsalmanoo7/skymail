@@ -1,7 +1,7 @@
 # skymail
 Smail (SkyMail) Simple email service
 
-url: localhost/dashboard/smail/admin.php
+url: localhost/dashboard/skymail/admin.php
 
   username: admin
   password: 12345
